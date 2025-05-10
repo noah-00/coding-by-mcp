@@ -74,7 +74,7 @@ export default function Header() {
             style={{ fontFamily: 'Inter, sans-serif' }}
           >
             Try Whitepace free
-            <Image src="/icons/arrow-right.svg" alt="Arrow Right" width={20} height={20} />
+            <Image src="/icons/arrow-right.svg" alt="Arrow Right" width={10} height={10} />
           </Button>
         </div>
 
